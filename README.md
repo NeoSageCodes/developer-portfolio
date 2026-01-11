@@ -17,4 +17,4 @@ This is my first solo developer portfolio, built primarily with semantic HTML an
 
 ## Live demo
 
-*(To be filled after enabling GitHub Pages.)*
+ https://neosagecodes.github.io/developer-portfolio/
