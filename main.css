@@ -1,0 +1,38 @@
+table {
+  width: 100%;
+  border-collapse: collapse;      /* remove double borders */
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+caption {
+  caption-side: top;              /* caption above table */
+  font-weight: bold;
+  padding: 0.5rem 0;
+  text-align: left;
+}
+
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+thead th {
+  background-color: #f3f4f6;      /* light gray header */
+  font-weight: 600;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f9fafb;      /* zebra stripe rows */
+}
+
+tbody tr:hover {
+  background-color: #eef2ff;      /* light highlight on hover */
+}
+
+iframe {
+  border: 0;
+}
